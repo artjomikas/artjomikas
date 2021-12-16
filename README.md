@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Artjom Strelkov and I'm a software developer/DevOps engineer. I'm from Estonia and right now I'm studying at Taltech. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Artjom Strelkov and I'm a software developer/DevOps engineer. I'm from Estonia and right now I'm studying at Taltech.
 
 ## 🔧 Technologies & Tools
 - 🚀 I use daily:
@@ -57,11 +57,6 @@ My name is Artjom Strelkov and I'm a software developer/DevOps engineer. I'm fro
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
 
 
 <!-- Resources -->
